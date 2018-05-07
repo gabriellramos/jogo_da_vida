@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Jogo da Vida</string>
+    <string name="jogo_da_vida">Jogo da Vida</string>
+    <string name="botaoIniciarJogo">Iniciar Jogo</string>
+    <string name="botaoSair">Sair</string>
+    <string name="labelNome">Nome:</string>
+    <string name="botaoProsseguir">Prosseguir</string>
+    <string name="botaoVoltar">Voltar</string>
+    <string name="botaoFinalizar">Finalizar</string>
+    <string name="labelCidade">Cidade</string>
+    <string name="labelPretendente">Pretendente</string>
+    <string name="labelRico">rico</string>
+    <string name="botaoVamosComecar">Vamos Começar?</string>
+    <string name="idade">idade</string>
+    <string name="_1">1</string>
+    <string name="labelMilionario">Milionário</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="labelPobre">Pobre</string>
+</resources>
